@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+void tomo() {
+    return 0;
+}
+
 int calibarn(){
     return 13;
 }
