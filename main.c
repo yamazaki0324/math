@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+int nanashi(){
+    return 1;
+}
+
 int houtei(){
    return 1;
 }
