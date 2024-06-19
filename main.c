@@ -5,7 +5,7 @@ int nanashi(){
 }
 
 int houtei(){
-   return 1;
+   return 10;
 }
 
 void tomo() {
